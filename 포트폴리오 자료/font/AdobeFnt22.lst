@@ -1,0 +1,1117 @@
+%!Adobe-FontList 1.22
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-3Light
+FamilyName:S
+StyleName:Core Dream 3 Light
+FullName:S-Core Dream 3 Light
+MenuName:S-Core Dream 3 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\AnyConv.com__SCDream3.woff2
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:790153
+FileModTime:1688430635
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-5Medium
+FamilyName:S
+StyleName:Core Dream 5 Medium
+FullName:S-Core Dream 5 Medium
+MenuName:S-Core Dream 5 Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\AnyConv.com__SCDream5.woff2
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:790996
+FileModTime:1688430635
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\AzeretMono-VariableFont_wght.woff
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Azeret_Mono.zip
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Bold
+FamilyName:DM Sans
+StyleName:Bold
+FullName:DM Sans Bold
+MenuName:DM Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\DM\DMSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71852
+FileModTime:1687467272
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-BoldItalic
+FamilyName:DM Sans
+StyleName:Bold Italic
+FullName:DM Sans Bold Italic
+MenuName:DM Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\DM\DMSans-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73392
+FileModTime:1687467272
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Italic
+FamilyName:DM Sans
+StyleName:Italic
+FullName:DM Sans Italic
+MenuName:DM Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\DM\DMSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73576
+FileModTime:1687467272
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Medium
+FamilyName:DM Sans
+StyleName:Medium
+FullName:DM Sans Medium
+MenuName:DM Sans Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\DM\DMSans-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71764
+FileModTime:1687467272
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans Medium
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-MediumItalic
+FamilyName:DM Sans
+StyleName:Medium Italic
+FullName:DM Sans Medium Italic
+MenuName:DM Sans Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\DM\DMSans-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73288
+FileModTime:1687467272
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans Medium
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Regular
+FamilyName:DM Sans
+StyleName:Regular
+FullName:DM Sans Regular
+MenuName:DM Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\DM\DMSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72000
+FileModTime:1687467272
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Black
+FamilyName:Darker Grotesque
+StyleName:Black
+FullName:Darker Grotesque Black
+MenuName:Darker Grotesque Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58132
+FileModTime:1685558846
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque Black
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Bold
+FamilyName:Darker Grotesque
+StyleName:Bold
+FullName:Darker Grotesque Bold
+MenuName:Darker Grotesque
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58308
+FileModTime:1685558846
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-ExtraBold
+FamilyName:Darker Grotesque
+StyleName:ExtraBold
+FullName:Darker Grotesque ExtraBold
+MenuName:Darker Grotesque ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58316
+FileModTime:1685558846
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque ExtraBold
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Light
+FamilyName:Darker Grotesque
+StyleName:Light
+FullName:Darker Grotesque Light
+MenuName:Darker Grotesque Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58300
+FileModTime:1685558846
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque Light
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Medium
+FamilyName:Darker Grotesque
+StyleName:Medium
+FullName:Darker Grotesque Medium
+MenuName:Darker Grotesque Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58316
+FileModTime:1685558846
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque Medium
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Regular
+FamilyName:Darker Grotesque
+StyleName:Regular
+FullName:Darker Grotesque Regular
+MenuName:Darker Grotesque
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58388
+FileModTime:1685558846
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-SemiBold
+FamilyName:Darker Grotesque
+StyleName:SemiBold
+FullName:Darker Grotesque SemiBold
+MenuName:Darker Grotesque SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58388
+FileModTime:1685558846
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque SemiBold
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Light
+FamilyName:Darker Grotesque
+StyleName:Light
+FullName:Darker Grotesque Light
+MenuName:Darker Grotesque Light
+FamilyPrefix:DarkerGrotesque
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\Darker\DarkerGrotesque-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:90552
+FileModTime:1685558846
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque Light
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PPEditorialNew-Regular-BF644b214ff145f.woff
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PPEditorialNew-Ultrabold-BF644b21500840c.woff
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PPEditorialNew-Ultralight-BF644b21500d0c0.woff
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.0.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.1.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.10.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.11.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.12.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.13.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.14.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.15.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.16.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.17.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.18.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.19.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.2.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.20.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.21.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.22.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.23.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.24.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.25.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.26.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.27.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.28.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.29.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.3.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.30.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.31.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.32.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.33.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.34.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.35.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.36.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.37.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.38.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.39.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.4.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.40.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.41.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.42.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.43.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.44.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.45.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.46.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.47.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.48.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.49.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.5.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.50.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.51.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.52.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.53.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.54.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.55.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.56.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.57.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.58.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.59.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.6.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.60.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.61.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.62.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.63.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.64.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.65.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.66.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.67.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.68.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.69.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.7.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.70.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.71.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.72.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.73.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.74.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.75.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.76.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.77.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.78.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.79.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.8.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.80.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.81.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.82.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.83.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.84.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.85.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.86.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.87.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.88.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.89.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.9.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.90.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\PretendardVariable.subset.91.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\RightGrotesk-CompactBlack.woff
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\RightGrotesk-Medium.woff
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\SpoqaHanSansNeo-Bold.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\SpoqaHanSansNeo-Light.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\SpoqaHanSansNeo-Medium.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\SpoqaHanSansNeo-Regular.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\SpoqaHanSansNeo-Thin.woff2
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\editorial-new-font-family-1687134609-0.zip
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\pretendardvariable-dynamic-subset.css
+FileModTime:1688430635
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\고은지\Home-Work\포트폴리오 자료\Font\right-grotesk-free-for-personal-use.zip
+FileModTime:1688430635
+%EndFont
+
